@@ -1,72 +1,47 @@
-# Responsive Portfolio Website
+💼 Ali’s Portfolio Website
 
-![Portfolio Preview](preview.png)
+This is a responsive personal portfolio website built with HTML, CSS, and JavaScript.
+It includes sections like Home, About, Skills, Projects, and Contact.
 
-A fully responsive portfolio website built with HTML, CSS (Sass), and JavaScript. Features modern design, smooth animations, and mobile-friendly layout.
+🚀 Features
+	•	Smooth scrolling navigation
+	•	Responsive layout for mobile and desktop
+	•	Dark/light theme toggle with persistence
+	•	Animated skill bars and scroll reveals
+	•	Technologies section (React, Vue, Tailwind, etc.)
+	•	Downloadable CV button
+	•	Contact form powered by Formspree
+	•	Lazy loaded images
 
-## Features
-- Fully responsive design (mobile, tablet, desktop)
-- CSS animations and transitions
-- Interactive elements powered by JavaScript
-- Sass for maintainable CSS
-- Clean, modern UI
+📁 Sections
+	•	Home: Introduction with animated name and social links
+	•	About: Quick intro about me as a frontend developer
+	•	Skills: Visual skill levels with progress bars
+	•	Technologies: Key tools and libraries I work with
+	•	Projects (Work): Project gallery with filterable categories
+	•	Contact: Form with email delivery using Formspree + CV download
 
-## Technologies Used
-- HTML5
-- CSS3 (compiled from Sass)
-- JavaScript (ES6)
-- [Font Awesome](https://fontawesome.com/) for icons
-- [Google Fonts](https://fonts.google.com/) for typography
+🛠️ Technologies Used
+	•	HTML5
+	•	CSS3 / SCSS
+	•	JavaScript (ES6+)
+	•	Boxicons
+	•	ScrollReveal.js
+	•	Git & GitHub
+	•	Figma
+	•	Tailwind (not included but mentioned)
 
-## Project Structure
-```
-portfolio-responsive-complete-main/
-├── index.html            # Main HTML file
-├── preview.png           # Project screenshot
-├── assets/
-│   ├── css/              # Compiled CSS
-│   ├── js/               # JavaScript files
-│   ├── scss/             # Sass source files
-│   └── img/              # All project images
-└── README.md             # This file
-```
+📦 Getting Started
 
-## Getting Started
+# Clone the repository
+git clone https://github.com/your-username/portfolio
 
-### View Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Alizhoooo/Portfolio.git
-   ```
-2. Open `index.html` in your browser:
-   ```bash
-   open index.html  # On macOS
-   ```
+# Open index.html in browser
 
-### Customization
-1. Edit Sass files in `assets/scss/`:
-   ```bash
-   styles.scss        # Main Sass file
-   _variables.scss    # Color variables
-   _mixins.scss       # Reusable mixins
-   ```
-2. Recompile Sass to CSS (requires Sass installed):
-   ```bash
-   sass assets/scss/styles.scss assets/css/styles.css
-   ```
+🌐 Live Demo
 
-### Deployment
-Deploy to any static hosting service:
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
+Add link here if hosted (e.g. GitHub Pages, Netlify, Vercel)
 
-## Live Demo
-[View Live Portfolio](https://alizhoooo.github.io/Portfolio/) (if deployed)
+📄 License
 
-## License
-This project is open source. Feel free to use it as a template for your own portfolio.
-
----
-✨ Designed and built with passion
-
+This project is open source and free to use.
